@@ -1,0 +1,23 @@
+HA-1 SPM
+1) Discuss the role of project manager . list out the suggested skills for all project managers and for information techonolgy
+2)Demonstrate how it mean to take a systems view of  a  project 
+3)Summarize keywork involved in each of the six processors for project integration management 
+4)Compare the relationship between projects , programs, and portfolio management and the contributions each made to enterprise success
+5)Describe triple constraints of project management with examples
+6)Discuss the project management tools and techniques for assigning project manager during their development
+7) Discuss the various phases of traditional project lifecycle
+8) Discuss various project integration management and explain six main processes are involved in project integration management
+9)Discuss briefly about strategy planning process during a swot analysis
+10)Discuss briefly about how leadership is so important for project managers
+11)How does project integration management relate to project lifecycle, stakeholders and the other project management knowledge areas
+12)How the four frames of organization help project managers understand the organizational contest for their projects
+13)Define a project and what are its main attributes
+14)Define globalization,outsourcing and virtual teams and describe how these trends are changing in IT project management 
+15)What functions can you perform with project management software
+16)Define some key events in the history of project management 
+17)Demonstrate how functional,matrix and project organization structure affects the management of the project
+18)Discuss briefly how IT projects makes different from other types of projects
+19)Compare functional ,matrix and proect organizations 
+20)Define the term project and explain the examples of IT projects 
+21)Define project management explain main processors are involved in project management 
+22)Illustrate how do u understand about organizations , Summarize the four frames of organizations
